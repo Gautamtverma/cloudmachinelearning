@@ -1,0 +1,5 @@
+ trainingInput:
+    pythonVersion: "3.5"
+    scaleTier: CUSTOM
+    masterType: complex_model_l
+#    workerType: n1-standard-8
